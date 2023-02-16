@@ -44,15 +44,16 @@ Hey 👋, I'm KhunNoo
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KhunNooDev&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhunNooDev&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
+<p align="center">
+  <!--<a href="https://github-readme-stats.vercel.app/api?username=KhunNooDev&show_icons=true&count_private=true&include_all_commits=true"> -->
+  <a href="#">
+  <img height='150' src="https://github-readme-stats.vercel.app/api?username=KhunNooDev&show_icons=true&count_private=true&include_all_commits=true"/> 
+  </a>
+  <!--<a href="https://github.com/KhunNooDev?tab=repositories">-->
+  <a href="#">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhunNooDev&layout=compact" height="150"/>
+  </a>
+</p>
 
 <br/>  
 
